@@ -12,8 +12,10 @@ React Native Weather App
     Watchman 설치(Mac용)
     brew update
     brew install watchman
-
+    
+    적용할 디렉토리에서 expo init 실행 
 https://docs.expo.dev/
+
 https://facebook.github.io/watchman/docs/install#buildinstall
 
 
