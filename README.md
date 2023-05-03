@@ -15,11 +15,12 @@ React Native Weather App
 
 https://docs.expo.dev/
 https://facebook.github.io/watchman/docs/install#buildinstall
-``서비스 할 운영 체제에 맞는 환경 설정을 사용 할 것. aos 는 자바 , 안드로이드 스튜디오 설치, ios 는 xcode 설치``
+
+
+``서비스 할 운영 체제에 맞는 환경 설정을 사용 할 것. ``
+
+``aos 는 자바 , 안드로이드 스튜디오 설치, ios 는 xcode 설치``
 
 # 2. how does work React Native?
-
-![스크린샷 2023-05-03 오후 10.46.11.png](..%2F..%2FDesktop%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-05-03%20%EC%98%A4%ED%9B%84%2010.46.11.png)
-    
 
 React 와 Native 부분 사이에 브릿지를 통하여 데이터 교환을 한다. 
